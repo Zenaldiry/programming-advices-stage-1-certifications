@@ -28,7 +28,7 @@ This repository contains all official completion certificates for **Stage 1** of
    📄 [View Certificate](certificate-of-completion-for-algorithms-problem-solving-level-3.pdf)
 
 8. **Course 08: Algorithms & Problem Solving Level 4**  
-   📄 [View Certificate](certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf)
+   📄 [View Certificate](ms-problem-solving-level-4.pdf)
 
 9. **Course 09: Foundations Level 2 (Computer Networks & Internet)**  
    📄 [View Certificate](certificate-of-completion-for-09-foundations-level-2.pdf)
